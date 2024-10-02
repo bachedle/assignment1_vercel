@@ -22,7 +22,7 @@ body {
   background-size: cover;
   background-position: center center;
   /* background: linear-gradient(#D4145A, #FBB03B) */
-  background-image: url(./component/assets/arknights.jpg);
+  background-image: url(./component/assets/arknights.png);
   background-repeat: no-repeat;
 }
 
